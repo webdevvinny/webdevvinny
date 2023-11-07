@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Front End Web development.
 - 📫 How to reach me.........
 - Gmai ---> mightywhiteangel@gmail.com
+- X (Formally Twitter) ----> https://twitter.com/WhiteAngelKE
 
 <!---
 webdevvinny/webdevvinny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
